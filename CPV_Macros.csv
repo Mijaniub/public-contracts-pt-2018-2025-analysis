@@ -1,0 +1,76 @@
+Código CPV (2 dígitos),Descrição
+01,Produtos da agricultura e pecuária (geral)
+02,Produtos florestais
+03,"Produtos da agricultura, da pesca, da silvicultura e afins"
+04,Produtos de mineração (não metálicos)
+05,Produtos minerais energéticos
+06,Petróleo e gás natural
+07,Minérios metálicos
+08,Produtos de minas e pedreiras
+09,"Produtos petrolíferos, combustíveis, electricidade e outras fontes de energia"
+10,Produtos alimentares básicos
+11,Bebidas
+12,Tabaco
+13,Produtos têxteis
+14,"Exploração mineira, metais de base e produtos afins"
+15,"Produtos alimentares, bebidas, tabaco e produtos afins"
+16,Máquinas agrícolas e equipamentos de silvicultura
+17,Máquinas e equipamentos industriais
+18,"Vestuário, calçado, malas e artigos de viagem, acessórios"
+19,Couros e artigos de couro
+20,Produtos químicos
+21,Produtos farmacêuticos
+22,Produtos de borracha e plástico
+23,Produtos minerais não metálicos
+24,Metais básicos
+25,Produtos metálicos fabricados
+26,"Computadores, equipamentos de TI e acessórios"
+27,Equipamento elétrico
+28,Máquinas e equipamentos
+29,Peças e acessórios para veículos e motores
+30,"Máquinas, equipamentos, ferramentas e instalações"
+31,Máquinas e aparelhos elétricos
+32,Equipamento de radiodifusão e telecomunicações
+33,"Equipamento de imagiologia médica, precisão e ótica"
+34,Equipamento de transporte
+35,"Equipamento de segurança, defesa e ordem pública"
+36,Equipamento de laboratório e industrial
+37,"Instrumentos musicais, artigos desportivos e de lazer"
+38,"Mobiliário, artigos de escritório, fornecimentos"
+39,Equipamentos e artigos diversos
+40,Produtos de madeira e papel
+41,Material de construção
+42,Estruturas e materiais de construção
+43,Trabalhos de construção especializados
+44,Materiais de construção e acessórios
+45,Trabalhos de construção
+48,Software e sistemas de informação
+49,Serviços de fornecimento de informação
+50,Serviços de reparação e manutenção
+51,Serviços de instalação (exceto software)
+55,Serviços de hotelaria e restauração
+60,Serviços de transporte
+63,Serviços auxiliares de transporte
+64,Serviços postais e de courier
+65,Serviços financeiros e de seguros
+66,"Serviços jurídicos, de contabilidade e auditoria"
+67,Serviços de limpeza e conservação
+70,Serviços imobiliários
+71,Serviços de arquitetura e engenharia
+72,"Serviços de TI, consultoria e desenvolvimento"
+73,Serviços de investigação e desenvolvimento
+74,Outros serviços empresariais
+75,Serviços administrativos e sociais
+76,Serviços de segurança
+77,"Serviços agrícolas, florestais e ambientais"
+78,Serviços de colocação e recursos humanos
+79,Serviços educacionais e formação
+80,Serviços de saúde e sociais
+81,Serviços de limpeza e ambiental
+90,"Serviços de esgotos, resíduos, limpeza e ambiente"
+91,Serviços relacionados com edifícios e instalações
+92,"Serviços recreativos, culturais e desportivos"
+93,Serviços de organizações e corpos religiosos
+94,"Serviços de sindicatos, partidos, organizações"
+98,"Outros serviços comunitários, sociais e pessoais"
+99,Outros serviços não classificados
