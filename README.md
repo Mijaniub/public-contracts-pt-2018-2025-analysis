@@ -160,9 +160,7 @@ Regional spending mapping
 
 Event-period comparisons: Pre-COVID → COVID → Ukraine War
 
-👥 Team
-
-Group C3 — NOVA IMS
+👥 Team Contributor 
 
 João Bilé
 
