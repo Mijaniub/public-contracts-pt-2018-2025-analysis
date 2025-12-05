@@ -39,11 +39,11 @@ Dados.gov.pt, Base.gov datasets
 PorData & INE Inflation Data
 
 📂 Project Structure
-portuguese-public-contracts-analysis/
+public-contracts-pt-2018-2025-analysis/
 │
 ├── data/
-│   ├── raw/              # Original datasets (CSV, JSON, XLSX)
-│   ├── processed/        # Cleaned and merged datasets
+│   ├── raw/                 # Original datasets (CSV, JSON, XLSX)
+│   ├── processed/           # Cleaned and merged datasets
 │
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
@@ -60,7 +60,8 @@ portuguese-public-contracts-analysis/
 │   ├── visualization_utils.py
 │
 ├── requirements.txt
-├── README.md
+└── README.md
+
 
 📚 Data Sources
 Type	Source
